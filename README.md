@@ -68,7 +68,7 @@
 
 <span class="pl-c"># Query the bot</span>
 <span class="pl-s1">elon_bot</span>.<span class="pl-en">query</span>(<span class="pl-s">"How many companies does Elon Musk run and name those?"</span>)
-<span class="pl-c"># Answer: Elon Musk currently runs several companies. As of my knowledge, he is the CEO and lead designer of SpaceX, the CEO and product architect of Tesla, Inc., the CEO and founder of Neuralink, and the CEO and founder of The Boring Company. However, please note that this information may change over time, so it's always good to verify the latest updates.</span></pre>
+<span class="pl-c">Answer: Elon Musk currently runs several companies. As of my knowledge, he is the CEO and lead designer of SpaceX, the CEO and product architect of Tesla, Inc., the CEO and founder of Neuralink, and the CEO and founder of The Boring Company. However, please note that this information may change over time, so it's always good to verify the latest updates.</span>
 
 # Create a bot instance
 os.environ[&quot;OPENAI_API_KEY&quot;] = &quot;YOUR API KEY&quot;
